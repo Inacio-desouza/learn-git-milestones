@@ -227,9 +227,9 @@ Step | Description | Completed
 2-1 | 1st Favorite emoji | ADD_TEXT_HERE ✌️
 2-2 | Link to `commit #1 from Github.com` | [commit #1 from github.com](https://github.com/omundy/learn-git-milestones/commit/07ff5e2c634283fba280de965c1727bd381623e8)
 2-3 | Link to markdown tables docs | [nice](https://stackoverflow.com/questions/39378020/how-to-display-table-in-readme-md-file-in-github)
-2-4 | What does `log` do? |
-3-1 | 2nd Favorite emoji |
-3-2 | Link to `commit #2 from Github Desktop` |
+2-4 | What does `log` do? | shows the history of commits
+3-1 | 2nd Favorite emoji | 😅
+3-2 | Link to `commit #2 from Github Desktop` | [commit #2](https://github.com/omundy/learn-git-milestones/commit/5966b1f84a0c5eeb9d9aea9b10b9c6747ef7463b)
 4-1 | Full path to your working directory |
 4-2 | Link to `commit #3 from CLI` |
 5-1 | Link to `first-website` github.com repo page |
