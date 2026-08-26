@@ -225,7 +225,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | ADD_TEXT_HERE ✌️
-2-2 | Link to `commit #1 from Github.com` |
+2-2 | Link to `commit #1 from Github.com` | [commit #1 from github.com](https://github.com/omundy/learn-git-milestones/commit/07ff5e2c634283fba280de965c1727bd381623e8)
 2-3 | Link to markdown tables docs |
 2-4 | What does `log` do? |
 3-1 | 2nd Favorite emoji |
