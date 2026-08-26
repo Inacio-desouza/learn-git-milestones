@@ -8,7 +8,7 @@ Learn to install and configure Git, then perform basic version control operation
 Also see: [PART 2 - Git Collaboration](git-collaboration.md)
 
 ## Instructions
-
+hi
 1. Complete the below steps, adding content in the [completions](#completions) table when ✏️ prompted
 1. Review course content as needed. You may need to read the documentation as well.
 1. After you finish, celebrate your Git proficiency! 🙌
