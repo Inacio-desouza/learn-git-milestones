@@ -230,8 +230,8 @@ Step | Description | Completed
 2-4 | What does `log` do? | shows the history of commits
 3-1 | 2nd Favorite emoji | 😅
 3-2 | Link to `commit #2 from Github Desktop` | [commit #2](https://github.com/omundy/learn-git-milestones/commit/5966b1f84a0c5eeb9d9aea9b10b9c6747ef7463b)
-4-1 | Full path to your working directory |
-4-2 | Link to `commit #3 from CLI` |
+4-1 | Full path to your working directory | /Users/indesouza/learn-git-milestones
+4-2 | Link to `commit #3 from CLI` | [cool](https://github.com/omundy/learn-git-milestones/commit/e0a491a57636abfa2c44ff46b290a2da6eb3dd33)
 5-1 | Link to `first-website` github.com repo page |
 6-1 | Link to `first-website` github.io "project site" |
 
